@@ -123,8 +123,16 @@ npm install
 
 2. Install Dependencies:
 ```shell
-npm run start
+# Navigate to the src/routes directory
+cd src/routes
 
+# Run dish-server.js
+node dish-server.js
+
+# Open a new terminal window/tab
+
+# Run user-server.js
+node user-server.js
 
 ```
 
