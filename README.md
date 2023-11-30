@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="./public/image/Candy.png" alt="candy" width="50" height="50" style="vertical-align: middle;">
     <font size="10">FlavorFleet</font>
-</h1>
+ </h1>
 
 <p align="center">
   <i align="center">Explore the World of Flavor with FlavorFleet 🍔🌮🍰</i>
